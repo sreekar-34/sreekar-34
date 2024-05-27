@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects related with CSS,HTML and JAVA
-- 📫 How to reach me sreekartadikonda6534@gmail.com
+- 📫 How to reach me sreekarcodez@gmail.com
 
 <!---
 sreekar-34/sreekar-34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
